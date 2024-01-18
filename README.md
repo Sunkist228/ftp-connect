@@ -26,7 +26,7 @@ This Python script allows you to upload files to an FTP server, excluding specif
    ```ini
    [FTP]
    server = ftp.example.com
-   port = 21  # Replace with your desired port
+   port = 21  
    username = your_username
    password = your_password
    local_directory = /path/to/local/files
