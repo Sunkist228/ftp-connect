@@ -13,5 +13,10 @@ This Python script allows you to upload files to an FTP server, excluding specif
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/ftp-file-uploader.git
+   git clone https://github.com/Sunkist228/ftp-connect.git
    cd ftp-file-uploader
+
+2. **Install the required libraries:**
+
+   ```bash
+   pip install ftplib configparser tqdm
